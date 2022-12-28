@@ -1,11 +1,10 @@
 # LEVELDB Reader
 
-###Install deps
+### Install deps
 ```
 pip install -r requirements.txt
 ```
 
-###Run script
+### Run script
 ```
 python main.py
-```# python-leveldb
